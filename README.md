@@ -1,11 +1,10 @@
 
 
-<h1><p  style = font-size:30px align="center">Olá. <br> <strong>Eu sou Tamires</strong></p></h1>&nbsp;
- <p align="center">(Git em construção...)</p></h1>
+<h1><p  style = font-size:30px align="center">Olá. <br> <strong>Eu sou Tamires🙃</strong></p></h1>&nbsp;
+ <p align="center">(Git em construção...)</p>
+ <p align="center">Sou estudante do útimo semestre na faculdade de Sistemas para Internet</p>
  &nbsp;
  &nbsp;
-
-
 
 
 #### Conhecimentos:
