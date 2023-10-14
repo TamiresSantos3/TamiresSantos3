@@ -1,6 +1,9 @@
 
+ <div style="text-align: center;">
+    <h1>Olá meu nome é <strong>Tamires</strong></h1>
+  </div>
 
-<p  style = font-size:30px align="center"><h1>Olá. <br> <strong>Eu sou Tamires</strong></p></h1>&nbsp;
+<p  style = font-size:30px align="center">Olá. <br> <strong>Eu sou Tamires</strong></p></h1>&nbsp;
  <p align="center">(Git em construção...)</p>
  &nbsp;
  &nbsp;
