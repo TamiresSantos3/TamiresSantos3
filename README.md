@@ -1,6 +1,6 @@
 
 
-<p align="center">Olá. <br> <strong>Eu sou Tamites</strong></p>&nbsp;
+<p align="center">Olá. <br> <strong>Eu sou Tamires</strong></p>&nbsp;
 
  &nbsp;
  &nbsp;
