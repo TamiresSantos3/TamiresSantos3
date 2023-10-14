@@ -1,7 +1,7 @@
 
 
 <p align="center">Olá. <br> <strong>Eu sou Tamires</strong></p>&nbsp;
- (Git em construção...)
+ <p align="center">(Git em construção...)</p>
  &nbsp;
  &nbsp;
 
